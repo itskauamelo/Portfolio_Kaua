@@ -1,2 +1,2 @@
 # Portfolio_Kaua
-Meu portfólio pessoa, digamos que um curriculum
+Meu portfólio pessoal, digamos que um curriculum
